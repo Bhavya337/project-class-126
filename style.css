@@ -23,4 +23,25 @@ body{
     background-size: contain;
 }
 
+.playbutton{
+    font-size: 25px;
+    width: 120px;
+    color: blueviolet;
+    box-shadow:2px 4px palevioletred;
+    margin-top: 5px;
+}
 
+
+canvas{
+    border: 5px solid white;
+    border-radius: 25px;
+    
+}
+
+.playbutton2{
+    font-size: 25px;
+    width: 120px;
+    color: blueviolet;
+    box-shadow:2px 4px palevioletred;
+    margin-top: 5px;
+}
